@@ -1,0 +1,5 @@
+project: symbolic
+target: fuzz_objects
+
+cmds:
+  - cmd: /fuzz_objects
